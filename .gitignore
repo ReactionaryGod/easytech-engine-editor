@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# local state
+.cache/
+projects.json
+*.pkl
+
+# game data and mod output never belong in this repo
+*.so
+*.apk
+*.btl
